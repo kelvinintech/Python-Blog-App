@@ -13,10 +13,7 @@ The **Python Blog App** is a full-stack web application built with Flask and SQL
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)  
 [![Flask Version](https://img.shields.io/badge/flask-2.0.1-blue)](https://flask.palletsprojects.com/en/2.0.x/)
 
-## Visuals
-Here’s a preview of the **Python Blog App**:
 
-![Python Blog App Screenshot](path-to-screenshot)
 
 ## Installation
 
@@ -24,8 +21,3 @@ Here’s a preview of the **Python Blog App**:
 - Python 3.9+
 - Flask
 - SQLite
-
-### Steps to install:
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/kelvinintech/Python-Blog-App.git
